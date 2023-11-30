@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Alexandre Joaquim] - Empresário e Estrategista</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #007BFF;
+      color: #fff;
+      text-align: center;
+      padding: 2em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2 {
+      color: #007BFF;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>[Alexandre Joaquim]</h1>
+    <p>Vice Superintendente da Associação Comercial de São Paulo</p>
+  </header>
+
+  <section>
+    <h2>Sobre Mim</h2>
+    <p>Olá! Sou [Alexandre Joaquim], Vice Superintendente da Associação Comercial de São Paulo, empresário administrador e especialista em idealização imobiliária. Ao longo da minha carreira, tenho sido um estrategista na formação de negócios e parcerias comerciais e empresariais, contribuindo para o crescimento sustentável e a prosperidade das empresas.</p>
+  </section>
+
+  <section>
+    <h2>Expertise</h2>
+    <p>Minha expertise inclui análise estratégica baseada no plano diretor das cidades, com foco em idealização imobiliária. Tenho liderado iniciativas que resultaram em empreendimentos bem-sucedidos e inovações no setor. Além disso, minha abordagem estratégica tem sido fundamental na formação de negócios sólidos e parcerias duradouras.</p>
+  </section>
+
+  <section>
+    <h2>Associação Comercial de São Paulo</h2>
+    <p>Como Vice Superintendente da Associação Comercial de São Paulo, estou comprometido em promover o desenvolvimento econômico e empresarial na região. Trabalhamos para criar um ambiente favorável aos negócios, facilitando conexões e proporcionando recursos para o crescimento sustentável das empresas locais.</p>
+  </section>
+
+  <footer>
+    <p>Entre em contato: [alexandrezulu33@gmail.com] | Conecte-se no LinkedIn: [https://www.linkedin.com/in/greenkaralexandrejoaquim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]</p>
+  </footer>
+
+</body>
+</html>
